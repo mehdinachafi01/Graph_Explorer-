@@ -5,7 +5,7 @@ import { useNavigation } from '@react-navigation/native';
 import { fetchCypherQuery } from '../api/fetchCypherQuery'; // Import the fetch function
 
 
-// Liste des couleurs prédéfinies
+// Liste des couleurs prédéfiniess
 const predefinedColors = ['#008000', '#FF0000', '#8B4513', '#0000FF', '#800080', '#00FFFF', '#FFC0CB', '#FFD700', '#A52A2A', '#000000'];
 
 const GraphScreen = ({ route }) => {
